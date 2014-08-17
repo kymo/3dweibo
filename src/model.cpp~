@@ -362,7 +362,7 @@ void main (int argc, char** argv)
 
 	glutInitWindowSize (800, 800);
 
-	glutCreateWindow ("3dweibo");
+	glutCreateWindow ("Translateº¯ÊýÊ¾Àý");
 
 	init();
 	read_file("friends_list.txt");
